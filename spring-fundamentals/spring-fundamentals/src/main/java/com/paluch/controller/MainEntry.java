@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @RestController
 @RequestMapping("/")
-public class PrimeiraController {
+public class MainEntry {
 
   @GetMapping("/")
   public String getMethodName() {
-    return "Meu primeiro metodo";
+    return "Welcome to Spring Fundamentals";
   }
 
 }
