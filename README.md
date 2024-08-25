@@ -1,5 +1,3 @@
 # springboot-fundaments-java
 
-Este é uma simples projeto de API-Rest com SpringBoot.
-O foco deste projeto não está em boas práticas de implementação ou algo escalável. 
-Neste repositório apenas esclarecemos como usar "annotations" e um exemplo básico de como o Spring gerência o instânciamento de classes. 
+This is a simple REST API project using Spring Boot. The focus of this project is not on best implementation practices or scalability. In this repository, we only clarify how to use annotations and provide a basic example of how Spring manages class instantiation.
